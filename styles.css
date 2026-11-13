@@ -40,3 +40,10 @@ a:hover {
   padding: 30px;
   border-radius: 8px;
 }
+#copyright {
+  position: relative;
+  bottom: 1%;
+}
+footer {
+  bottom: 5px;
+}
