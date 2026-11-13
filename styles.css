@@ -45,6 +45,7 @@ a:hover {
   bottom: 1%;
 }
 footer {
-  position: absolute;
+  position: fixed;
   bottom: 5px;
+  right: 40%;
 }
